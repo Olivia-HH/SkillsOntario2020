@@ -26,4 +26,4 @@ The repository is setup like this:
 
 ## How did I do?
 
-I got 4th in the province. I also placed 1st in my region, however the program was done on a school-provided computer.
+I got 4th in the province.
